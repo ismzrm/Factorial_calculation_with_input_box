@@ -1,0 +1,16 @@
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\bin\Debug\net8.0-windows\ödev_cs.exe
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\bin\Debug\net8.0-windows\ödev_cs.deps.json
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\bin\Debug\net8.0-windows\ödev_cs.runtimeconfig.json
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\bin\Debug\net8.0-windows\ödev_cs.dll
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\bin\Debug\net8.0-windows\ödev_cs.pdb
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.Form1.resources
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.csproj.GenerateResource.cache
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.AssemblyInfoInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.AssemblyInfo.cs
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.csproj.CoreCompileInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.dll
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\refint\ödev_cs.dll
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.pdb
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ödev_cs.genruntimeconfig.cache
+C:\Users\zorma\OneDrive\Masaüstü\ödev_cs\ödev_cs\obj\Debug\net8.0-windows\ref\ödev_cs.dll
